@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadeangelis&show_icons=true&locale=en&layout=compact" alt="gadeangelis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadeangelis&show_icons=true&locale=en" alt="gadeangelis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadeangelis&show_icons=true&locale=en" alt="Gustavo De Angelis" /></p>
 &nbsp;
 <h1>📌 Proyectos en los que he trabajado</h1>
 <h2 align="center">Power Gym App</h2>
