@@ -78,21 +78,24 @@ Contributors
 <p><p/>
 <h2 align="center">Dogs App</h2>
 
-<h4>Esta app te permite ordenar y filtrar los datos traídos de una API ("thedogapi"). también permite crear y guardar tu información creada guardándola en una base de datos para luego poder acudir a esa información y mostrarla con los detalles de la mismas. Realizada con javaScript, nodeJs, react, redux, Sql entre otras mas herramientas
+<h4>Realice esta app para rendir mi PI (Proyecto Individual). Para la misma habia que utilizar la API ("thedogapi").
+ La app permite ordenar, filtrar, ver detalle de cada raza y crear nuevas.
+ Realizada con javaScript, nodeJs, react, redux, Sql entre otras mas herramientas.
+ Te invito a que veas del deploy y crees tu propia raza 🐶
 </h4>
 &nbsp;
 <p align="center">
-    <a><img width="250px" src="./img/dog/landingPage.png"></a>
+    <!-- <a><img width="250px" src="./img/dog/landingPage.png"></a>
     <a><img width="250px" src="./img/dog/home.png"></a>
     <a><img width="250px" src="./img/dog/filter.png"></a>
     <a><img width="250px" src="./img/dog/detail.png"></a>
-    <a><img width="250px" src="./img/dog/create.png"></a>
+    <a><img width="250px" src="./img/dog/create.png"></a> -->
 </p>
 
 <p align="center" width="400">
-    <a href="https://github.com/matiasgonz1653/Dogs">Ver Repositorio</a>
+    <a href="https://github.com/gadeangelis/PI-DOGS">Ver Repositorio</a>
     <a>ㅤㅤ</a>
-    <a href="https://dog-nu.vercel.app">Ver Deploy</a>
+    <!-- <a href="https://dog-nu.vercel.app">Ver Deploy</a> -->
 </p>
 
 
