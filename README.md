@@ -5,7 +5,7 @@
 <p align="left">
 </p>
 <h3 align="left">Un poco sobre mi:</h3>
-<p> Me considero alguien muy tranquilo, estudie musica en mis tiempos libres, tocaba el clarinete y toque en una orquesta tocando conciertos como parte del elenco y como solista, en la actualidad en mis tiempos libres realizo dibujos digitales y videojuegos <p/>
+<!-- <p> Me considero alguien muy tranquilo, estudie musica en mis tiempos libres, tocaba el clarinete y toque en una orquesta tocando conciertos como parte del elenco y como solista, en la actualidad en mis tiempos libres realizo dibujos digitales y videojuegos <p/> -->
 <img align="right" src="./img/cat-space.gif" width="40%"/>
 &nbsp;
 <h3 align="left">Languages and Tools:</h3>
@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gadeangelis&show_icons=true&locale=en&layout=compact" alt="gadeangelis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matiasgonz1653&show_icons=true&locale=en" alt="gadeangelis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gadeangelis&show_icons=true&locale=en" alt="gadeangelis" /></p>
 &nbsp;
 <h1>📌 Proyectos en los que he trabajado</h1>
 <h2 align="center">Power Gym App</h2>
