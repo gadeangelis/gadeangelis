@@ -1,5 +1,5 @@
 <img align="right" src="./img/portada.png" width="100%"/>
-<h1 align="center">Hola 👋, soy Matias Gonzalez</h1>
+<h1 align="center">Hola 👋, soy Gustavo De Angelis</h1>
 <h3 align="center">Full stack web Developer.</h3>
 
 <p align="left">
