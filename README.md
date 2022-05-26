@@ -7,9 +7,9 @@
 <h3 align="left">Un poco sobre mi:</h3>
 <!-- <p> Me considero alguien muy tranquilo, estudie musica en mis tiempos libres, tocaba el clarinete y toque en una orquesta tocando conciertos como parte del elenco y como solista, en la actualidad en mis tiempos libres realizo dibujos digitales y videojuegos <p/> -->
 
-<h3 align="left" >Podes encontrarme en 🌍:</h3>
-- [Linkedin](https://www.linkedin.com/in/gadeangelis/)
-- [Instagram](https://www.instagram.com/gadeangelis/)
+Podes encontrarme en 🌍:
+- [Linkedin](https://www.linkedin.com/in/gadeangelis)
+- [Instagram](https://www.instagram.com/gadeangelis)
 - [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtXJSJNrCdLJlhHgHsQqkbWHQnHCbTjKGNKqPkqLrwVPrtwkCzMsmKVXVCtcKbrVKFxVCP)
 
 <h3 align="left">Languages and Tools:</h3>
