@@ -87,6 +87,8 @@ Contributors
     <a><img width="250px" src="./img/dog/home.jpeg"></a>
     <a><img width="250px" src="./img/dog/detail.jpeg"></a>
     <a><img width="250px" src="./img/dog/create.jpeg"></a>
+    <a><img width="250px" src="./img/dog/searchbar.jpeg"></a>
+    <a><img width="250px" src="./img/dog/filter.jpeg"></a>
 </p>
 
 <p align="center" width="400">
