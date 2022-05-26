@@ -83,10 +83,10 @@ Contributors
 </h4>
 &nbsp;
 <p align="center">
-    <a><img width="250px" src="./img/dog/landingPage.png"></a>
-    <a><img width="250px" src="./img/dog/home.png"></a>
-    <a><img width="250px" src="./img/dog/detail.png"></a>
-    <a><img width="250px" src="./img/dog/create.png"></a>
+    <a><img width="250px" src="./img/dog/landingPage.jpeg"></a>
+    <a><img width="250px" src="./img/dog/home.jpeg"></a>
+    <a><img width="250px" src="./img/dog/detail.jpeg"></a>
+    <a><img width="250px" src="./img/dog/create.jpeg"></a>
 </p>
 
 <p align="center" width="400">
