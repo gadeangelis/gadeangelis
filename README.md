@@ -5,9 +5,7 @@
 <p align="left">
 </p>
 <h3 align="left">Un poco sobre mi:</h3>
-<p> Me considero una persona muy curiosa, siempre con la mentalidad de aprender cosas nuevas, sim importar la edad que tenga. Esta es mi tercer carrera, ya que anteriormente me gradue en "Lic. en Administracion de Empresas" y "Licenciatura en Gastronomia".
-Ahora que soy un desarrollador de pila completa, busco nuevos desafios para poder aplicar todas mis habilidades de programacion, y seguir aprendiendo de este maravilloso mundo.
-Mi joby es la pesca, la practico en forma habitual compitiendo a nivel provincial y nacional, es mi cable a tierra.  <p/>
+<p> Me considero una persona muy curiosa, siempre con la mentalidad de aprender cosas nuevas, sim importar la edad que tenga. Esta es mi tercera carrera, ya que anteriormente me gradué en "Lic. en Administración de Empresas" y "Licenciatura en Gastronomía".<br> Ahora que soy un desarrollador de pila completa, busco nuevos desafíos para poder aplicar todas mis habilidades de programación, y seguir aprendiendo de este maravilloso mundo.<br> Mi jobi es la pesca, la practico en forma habitual compitiendo a nivel provincial y nacional, es mi cable a tierra.  <p/>
 
 Podes contactarme en 🌍:
 - [Linkedin](https://www.linkedin.com/in/gadeangelis)
