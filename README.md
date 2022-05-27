@@ -1,4 +1,4 @@
-<img align="right" src="./img/portada.png" width="100%"/>
+<img align="right" src="./img/dog/Sin título.png" width="100%"/>
 <h1 align="center">Hola 👋, soy Gustavo De Angelis</h1>
 <h3 align="center">Full stack web Developer.</h3>
 
